@@ -5,4 +5,4 @@ Tickets to Somewhere
 
 > Wellcome to Tickets to Somewhere!
 
-> we are young developers
+> We are young developers
